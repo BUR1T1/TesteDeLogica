@@ -1,0 +1,14 @@
+C:\Users\Public\Documents\ApiCsharp\TesteParaEstagio\questoes\bin\Debug\net8.0\questoes.exe
+C:\Users\Public\Documents\ApiCsharp\TesteParaEstagio\questoes\bin\Debug\net8.0\questoes.deps.json
+C:\Users\Public\Documents\ApiCsharp\TesteParaEstagio\questoes\bin\Debug\net8.0\questoes.runtimeconfig.json
+C:\Users\Public\Documents\ApiCsharp\TesteParaEstagio\questoes\bin\Debug\net8.0\questoes.dll
+C:\Users\Public\Documents\ApiCsharp\TesteParaEstagio\questoes\bin\Debug\net8.0\questoes.pdb
+C:\Users\Public\Documents\ApiCsharp\TesteParaEstagio\questoes\obj\Debug\net8.0\questoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\ApiCsharp\TesteParaEstagio\questoes\obj\Debug\net8.0\questoes.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\ApiCsharp\TesteParaEstagio\questoes\obj\Debug\net8.0\questoes.AssemblyInfo.cs
+C:\Users\Public\Documents\ApiCsharp\TesteParaEstagio\questoes\obj\Debug\net8.0\questoes.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\ApiCsharp\TesteParaEstagio\questoes\obj\Debug\net8.0\questoes.dll
+C:\Users\Public\Documents\ApiCsharp\TesteParaEstagio\questoes\obj\Debug\net8.0\refint\questoes.dll
+C:\Users\Public\Documents\ApiCsharp\TesteParaEstagio\questoes\obj\Debug\net8.0\questoes.pdb
+C:\Users\Public\Documents\ApiCsharp\TesteParaEstagio\questoes\obj\Debug\net8.0\questoes.genruntimeconfig.cache
+C:\Users\Public\Documents\ApiCsharp\TesteParaEstagio\questoes\obj\Debug\net8.0\ref\questoes.dll
